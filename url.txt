@@ -1,0 +1,3 @@
+sms - https://api.dialog.lk/sms/send
+lbs - https://api.dialog.lk/lbs/send
+ussd - https://api.dialog.lk/ussd/send
